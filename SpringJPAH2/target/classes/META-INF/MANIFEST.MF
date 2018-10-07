@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: romvargas
+Build-Jdk: 11
+Implementation-Title: SpringJPAH2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springboot.basics
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringJPAH2
+Created-By: Maven Integration for Eclipse
+

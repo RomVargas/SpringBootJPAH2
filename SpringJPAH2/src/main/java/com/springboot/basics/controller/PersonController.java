@@ -46,7 +46,4 @@ public class PersonController {
 		personRepo.update(person);
 	}
 	
-	public String greeting() {
-		return "Hola Mundo";
-	}
 }

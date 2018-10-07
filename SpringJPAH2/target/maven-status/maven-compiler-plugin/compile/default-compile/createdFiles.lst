@@ -1,7 +1,7 @@
-com\springboot\basics\SpringJpah2Application.class
-com\springboot\basics\jdbc\PersonJdbcDAO.class
-com\springboot\basics\mapper\PersonRowMapper.class
-com\springboot\basics\entity\Person.class
-com\springboot\basics\jpa\PersonJPARepo.class
-com\springboot\basics\config\SwaggerConfig.class
-com\springboot\basics\controller\PersonController.class
+com/springboot/basics/controller/PersonController.class
+com/springboot/basics/entity/Person.class
+com/springboot/basics/jdbc/PersonJdbcDAO.class
+com/springboot/basics/jpa/PersonJPARepo.class
+com/springboot/basics/mapper/PersonRowMapper.class
+com/springboot/basics/SpringJpah2Application.class
+com/springboot/basics/config/SwaggerConfig.class

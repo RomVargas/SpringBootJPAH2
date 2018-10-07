@@ -1,7 +1,7 @@
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\jdbc\PersonJdbcDAO.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\SpringJpah2Application.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\entity\Person.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\controller\PersonController.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\config\SwaggerConfig.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\jpa\PersonJPARepo.java
-C:\Users\RomanVargasGarnica\Documents\JavaWorkspace\SpringJPAH2\src\main\java\com\springboot\basics\mapper\PersonRowMapper.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/jpa/PersonJPARepo.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/controller/PersonController.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/SpringJpah2Application.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/mapper/PersonRowMapper.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/jdbc/PersonJdbcDAO.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/config/SwaggerConfig.java
+/Users/romvargas/Documents/Java/SpringBootJPAH2/SpringJPAH2/src/main/java/com/springboot/basics/entity/Person.java
