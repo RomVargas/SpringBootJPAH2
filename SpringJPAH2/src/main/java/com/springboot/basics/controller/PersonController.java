@@ -45,4 +45,8 @@ public class PersonController {
 	public void updatePerson(@RequestBody Person person) {
 		personRepo.update(person);
 	}
+	
+	public String greeting() {
+		return "Hola Mundo";
+	}
 }
